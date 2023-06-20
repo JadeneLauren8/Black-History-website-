@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Black History Interactive Website</title>
+<title>Black History Educators</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <div id="app">
 <header>
-<h1>Black History Interactive Website</h1>
+<h1>Black History</h1>
 </header>
 <main>
 <section>
@@ -20,13 +20,12 @@
 <ul>
 <li>Harriet Tubman</li>
 <li>Martin Luther King Jr.</li>
-<li>Malcolm X</li>
-<li>Sojourner Truth</li>
-<li>Rosa Parks</li>
-<li>Frederick Douglass</li>
+<li>Marcus Garvey</li>
+<li>Rita Pierson</li>
+<li>Mary McLeod</li>
 <li>Booker T. Washington</li>
 <li>W.E.B. Du Bois</li>
-<li>James Baldwin</li>
+<li>Septima Clark</li>
 </ul>
 </section>
 <section>
